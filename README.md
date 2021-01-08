@@ -6,8 +6,9 @@
 - 🌱 I'm learning Django
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 
-      **Learn React <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> 
-      **Find a job as Junior Developer
+  - Finish Code Institute Course
+  - <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  Learn React 
+  - Find a job as Junior Developer
 
 - ⚡ Fun facts: I love photography and playing on bass/guitar. Love music!
 

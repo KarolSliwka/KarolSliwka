@@ -31,11 +31,8 @@
 <br />
 
 
-### Connect with me: 
-
-
 
 
 [ArcticSchool]:https://arcticschool.herokuapp.com
 [LinkedIn]:https://www.linkedin.com/in/karol-sliwka-626509193
-[Instragram]:https://www.instagram.com/gentleman_stories
+[Instagram]:https://www.instagram.com/gentleman_stories

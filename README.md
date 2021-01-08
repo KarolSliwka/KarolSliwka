@@ -33,7 +33,7 @@
 <br />
 <br />
 
-<img align="left" alt="KarolSliwka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KarolSliwka&show_icons=true&hide_border=true" />
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KarolSliwka&show_icons=true&hide_border=true" />
 
 [ArcticSchool]:https://arcticschool.herokuapp.com
 [LinkedIn]:https://www.linkedin.com/in/karol-sliwka-626509193

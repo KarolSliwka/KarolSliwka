@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: 
   - Finish Code Institute Course
   - <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Learn React 
-  - To find job as Junior Developer
+  * Get job as Junior Developer and progress!
 - ⚡ Fun facts: I love photography and playing on bass/guitar. I love music!
 
 ### Connect with me:

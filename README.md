@@ -2,7 +2,7 @@
 
 ## I'm a Junior Developer, passionate about coding.
 
-- 🔭 I’m currently working on my 4th Milestone Project [ArcticSchool]
+- 🔭 I’m currently waiting on my feedback on 4th Milestone Project [ArcticSchool]
 - 🌱 I'm learning Django
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: 

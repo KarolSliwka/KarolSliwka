@@ -6,8 +6,7 @@
 - 🌱 I'm learning React.JS
 - 🥅 2021 Goals: 
   - Finish Code Institute Course
-  - Get job as Junior Developer and develop my skills
-  - <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> Learn React 
+  - Find a job as Junior Developer and develop my skills
   
 - ⚡ Fun facts: I love photography and playing on bass/guitar. I love music!
 

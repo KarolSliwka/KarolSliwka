@@ -5,7 +5,7 @@
 - 🔭 I’m currently waiting on my feedback on 4th Milestone Project [ArcticSchool]
 - 🌱 I'm learning React.JS
 - 🥅 2021 Goals: 
-  - Finish Code Institute Course
+  - Waiting on Diploma from Code Institute
   - Find a job as Junior Developer and develop my skills
   
 - ⚡ Fun facts: I love photography and playing on bass/guitar. I love music!

@@ -3,8 +3,7 @@
 ## I'm a Junior Developer, passionate about coding.
 
 - 🔭 I’m currently waiting on my feedback on 4th Milestone Project [ArcticSchool]
-- 🌱 I'm learning Django
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I'm learning React.JS
 - 🥅 2021 Goals: 
   - Finish Code Institute Course
   - Get job as Junior Developer and develop my skills

@@ -1,14 +1,11 @@
 ### Hi there, I'm Karol 👋 
 
 ## I'm a Junior Developer, passionate about coding.
-
-- 🔭 I’m currently waiting on my feedback on 4th Milestone Project [ArcticSchool]
-- 🌱 I'm learning React.JS
-- 🥅 2021 Goals: 
-  - Waiting on Diploma from Code Institute
-  - Find a job as Junior Developer and develop my skills
-  
-- ⚡ Fun facts: I love photography and playing on bass/guitar. I love music!
+  - [Code Institute ](https://codeinstitute.net) [Diploma in Software Developement with First Class Honours](https://www.credential.net/901c6961-2d3d-4033-b765-a916ba8ac08f#gs.ee2ytg) - Many thanks to the course leaders and my mentor, [Simon Daehlin](https://uk.linkedin.com/in/simendaehlin). Thanks to these wonderful people, I gained a lot of knowledge in programming. You are amazing!
+  - Currently working as Business Data Analyst at T.L.X. Electrical
+ 
+### Freelance
+  - I'm open for remote working on various projects to gain more development skills
 
 ### Connect with me:
 

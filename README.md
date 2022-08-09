@@ -2,7 +2,7 @@
 
 ## I'm a Junior Developer, passionate about coding.
   - [Code Institute ](https://codeinstitute.net) [Diploma in Software Developement with First Class Honours](https://www.credential.net/901c6961-2d3d-4033-b765-a916ba8ac08f#gs.ee2ytg) - Many thanks to the course leaders and my mentor, [Simon Daehlin](https://uk.linkedin.com/in/simendaehlin). Thanks to these wonderful people, I gained a lot of knowledge in programming. You are amazing!
-  - Currently working as Business Data Analyst at T.L.X. Electrical
+  - Currently working as Operations Project Coordinator at [Flex]:https://www.flex.com
  
 ### Freelance
   - I'm open for remote working on various projects to gain more development skills
@@ -22,6 +22,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 ![Sass](https://img.shields.io/badge/Sass%20-%23CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=FFFFFF)
+
+### Currently learning 
+![C Sharp](https://img.shields.io/static/v1?style=for-the-badge&message=C+Sharp&color=239120&logo=C+Sharp&logoColor=FFFFFF&label=)
+
  #### Libraries and Frameworks
 ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?&style=for-the-badge&logo=Flask&logoColor=FFFFFF)
 ![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
@@ -30,6 +34,11 @@
 ![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%231E2E3B.svg?&style=for-the-badge&logo=jQuery&logoColor=21ACE2)
 ![Stripe](https://img.shields.io/badge/Stripe%20-%23646EDE.svg?&style=for-the-badge&logo=Stripe&logoColor=FFFFFF)
+
+### Currently learning
+Razor Pages Framework (C#)
+Entity Framework (C#)
+
 #### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB%20-%233F2E1E.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?&style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
